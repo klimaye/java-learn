@@ -1,0 +1,21 @@
+PocketLife/target
+PocketLifeBusiness/target
+*/bin
+/LayoutMaker/gen/
+
+.DS_Store
+
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
+local.properties
+gen-external-apklibs/
+# Generic Android ignores
+bin/
+target
+gen/
+/DateTimeTester/nbproject/private/
+/DateTime/nbproject/private/
+/DateTime/build/
