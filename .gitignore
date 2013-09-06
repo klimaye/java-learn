@@ -2,7 +2,7 @@ PocketLife/target
 PocketLifeBusiness/target
 */bin
 /LayoutMaker/gen/
-
+*.class
 .DS_Store
 
 # IDEA Ignores
