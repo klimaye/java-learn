@@ -1,4 +1,4 @@
-package somethingelse;
+package other;
 import certification.OtherClass;
 class SubClass extends OtherClass {
   static void main(String[] args) {

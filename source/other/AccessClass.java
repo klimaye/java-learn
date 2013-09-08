@@ -1,4 +1,4 @@
-package somethingelse;
+package other;
 import certification.OtherClass;
 class AccessClass {
   static void main(String[] args) {
